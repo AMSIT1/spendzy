@@ -1,8 +1,8 @@
-authentication-2A-part1/
-│
-├── README.md
-├── build.gradle (changes)
-├── src/main/java/com/spendzy/auth/
-│
-└── src/main/resources/
-    └── application.properties (JWT additions)
+package com.spendzy.auth.security;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class JwtService {
+    // TODO: We'll complete this implementation during Authentication 2A.
+}
