@@ -1,0 +1,1 @@
+package com.spendzy.config; public class JacksonConfig {}
