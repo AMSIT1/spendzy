@@ -1,1 +1,5 @@
-in/resources/application.yml
+spring:
+  application:
+    name: spendzy-backend
+server:
+  port: 8080
